@@ -1,0 +1,17 @@
+html{
+  background-color: skyblue;
+}
+
+.container-fluid{
+  background-color: whitesmoke;
+}
+
+input[type="text"]{
+  background: transparent;
+  color:black;
+}
+
+input[type="text"]:focus{
+  background: transparent;
+  color:black;
+}
